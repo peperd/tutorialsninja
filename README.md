@@ -1,4 +1,4 @@
-# Pet Project: Selenium - testing bot http://tutorialsninja.com/demo'
+# Pet Project: Selenium - testing bot http://tutorialsninja.com/demo
 ![GitHub all releases](https://img.shields.io/github/downloads/peperd/tutorialsninja/total?logo=Github)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/peperd/tutorialsninja?logo=GIthub)
 ![GitHub repo size](https://img.shields.io/github/repo-size/peperd/tutorialsninja?logo=Github)
@@ -22,7 +22,7 @@ This bot tests actions of: </br>
 3. Install selenium </br> `$ pip install -U selenium`
 4. Install requests </br> `$ python -m pip install requests`
 5. Run `test.py` </br> `$ python3 run.py`
-6. `test.py` will open `http://tutorialsninja.com/demo'` in Chrome browser and run tests
+6. `test.py` will open `http://tutorialsninja.com/demo` in Chrome browser and run tests
 
 
 ### Prerequisites
